@@ -1,0 +1,15 @@
+.home, .form{
+    width: 60%;
+    padding: 2rem;
+    border-radius: 15px;
+    border: 1px solid #e0e0e0;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.spanErr{
+    color: #eb0000;
+}
